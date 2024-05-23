@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|c:\\users\\wilia\\desktop\\developer\\gestaocondominio\\src\\gc.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|solutionrelative:src\\gc.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|c:\\users\\wilia\\desktop\\developer\\gestaocondominio\\src\\gc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|solutionrelative:src\\gc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|c:\\users\\wilia\\desktop\\developer\\gestaocondominio\\src\\gc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|solutionrelative:src\\gc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|c:\\users\\wilia\\desktop\\developer\\gestaocondominio\\src\\gc.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|solutionrelative:src\\gc.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|c:\\users\\wilia\\desktop\\developer\\gestaocondominio\\src\\gc.api\\configuration\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|solutionrelative:src\\gc.api\\configuration\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|c:\\users\\wilia\\desktop\\developer\\gestaocondominio\\src\\gc.api\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|solutionrelative:src\\gc.api\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|c:\\users\\wilia\\desktop\\developer\\gestaocondominio\\src\\gc.api\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|solutionrelative:src\\gc.api\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|c:\\users\\wilia\\desktop\\developer\\gestaocondominio\\src\\gc.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{33093768-5ECD-45C8-B511-CC087E8339DD}|src\\GC.Api\\GC.Api.csproj|solutionrelative:src\\gc.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EE7C6641-DC1E-47E7-B6B0-C96B6B1A9EAC}|Itens de Solu\u00E7\u00E3o{EE7C6641-DC1E-47E7-B6B0-C96B6B1A9EAC}|C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{EE7C6641-DC1E-47E7-B6B0-C96B6B1A9EAC}|Itens de Solu\u00E7\u00E3o{EE7C6641-DC1E-47E7-B6B0-C96B6B1A9EAC}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,104 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "src\\GC.Api\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "src\\GC.Api\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:15:55.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DependencyInjectionConfig.cs",
-              "DocumentMoniker": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\Configuration\\DependencyInjectionConfig.cs",
-              "RelativeDocumentMoniker": "src\\GC.Api\\Configuration\\DependencyInjectionConfig.cs",
-              "ToolTip": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\Configuration\\DependencyInjectionConfig.cs",
-              "RelativeToolTip": "src\\GC.Api\\Configuration\\DependencyInjectionConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:12:09.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApiConfig.cs",
-              "DocumentMoniker": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\Configuration\\ApiConfig.cs",
-              "RelativeDocumentMoniker": "src\\GC.Api\\Configuration\\ApiConfig.cs",
-              "ToolTip": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\Configuration\\ApiConfig.cs",
-              "RelativeToolTip": "src\\GC.Api\\Configuration\\ApiConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T13:48:54.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\GC.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\Program.cs",
-              "RelativeToolTip": "src\\GC.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T13:47:43.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Staging.json",
-              "DocumentMoniker": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\appsettings.Staging.json",
-              "RelativeDocumentMoniker": "src\\GC.Api\\appsettings.Staging.json",
-              "ToolTip": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\appsettings.Staging.json",
-              "RelativeToolTip": "src\\GC.Api\\appsettings.Staging.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-23T13:46:40.271Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "src\\GC.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "src\\GC.Api\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAmwDEAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-23T13:38:10.428Z",
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-23T19:28:21.436Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "src\\GC.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\appsettings.Development.json",
-              "RelativeToolTip": "src\\GC.Api\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-23T13:34:37.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\GC.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Api\\appsettings.json",
-              "RelativeToolTip": "src\\GC.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-23T13:32:52.928Z"
             }
           ]
         }

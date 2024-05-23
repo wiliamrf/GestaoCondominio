@@ -9,3 +9,5 @@ C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Data\obj\Debug\net8.0\G
 C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Data\obj\Debug\net8.0\refint\GC.Data.dll
 C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Data\obj\Debug\net8.0\GC.Data.pdb
 C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Data\obj\Debug\net8.0\ref\GC.Data.dll
+C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Data\obj\Debug\net8.0\GC.Data.sourcelink.json
+C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Data\obj\Debug\net8.0\GC.Data.csproj.AssemblyReference.cache

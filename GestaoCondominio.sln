@@ -3,14 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC.Data", "src\GC.Data\GC.Data.csproj", "{FF5ED844-B560-4497-9860-5F1986ADE88C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GC.Data", "src\GC.Data\GC.Data.csproj", "{FF5ED844-B560-4497-9860-5F1986ADE88C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EA3A1679-A87B-4AB4-B30B-7856A8F593BF} = {EA3A1679-A87B-4AB4-B30B-7856A8F593BF}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC.Business", "src\GC.Business\GC.Business.csproj", "{EA3A1679-A87B-4AB4-B30B-7856A8F593BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GC.Business", "src\GC.Business\GC.Business.csproj", "{EA3A1679-A87B-4AB4-B30B-7856A8F593BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC.Api", "src\GC.Api\GC.Api.csproj", "{33093768-5ECD-45C8-B511-CC087E8339DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GC.Api", "src\GC.Api\GC.Api.csproj", "{33093768-5ECD-45C8-B511-CC087E8339DD}"
 	ProjectSection(ProjectDependencies) = postProject
 		{EA3A1679-A87B-4AB4-B30B-7856A8F593BF} = {EA3A1679-A87B-4AB4-B30B-7856A8F593BF}
 		{FF5ED844-B560-4497-9860-5F1986ADE88C} = {FF5ED844-B560-4497-9860-5F1986ADE88C}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{EE7C6641-DC1E-47E7-B6B0-C96B6B1A9EAC}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global

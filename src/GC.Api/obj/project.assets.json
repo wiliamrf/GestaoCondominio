@@ -1605,6 +1605,36 @@
             "rid": "win"
           }
         }
+      },
+      "GC.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.5"
+        },
+        "compile": {
+          "bin/placeholder/GC.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GC.Business.dll": {}
+        }
+      },
+      "GC.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "GC.Business": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.5",
+          "Microsoft.EntityFrameworkCore.InMemory": "8.0.5",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.5"
+        },
+        "compile": {
+          "bin/placeholder/GC.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GC.Data.dll": {}
+        }
       }
     }
   },
@@ -4564,13 +4594,26 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "GC.Business/1.0.0": {
+      "type": "project",
+      "path": "../GC.Business/GC.Business.csproj",
+      "msbuildProject": "../GC.Business/GC.Business.csproj"
+    },
+    "GC.Data/1.0.0": {
+      "type": "project",
+      "path": "../GC.Data/GC.Data.csproj",
+      "msbuildProject": "../GC.Data/GC.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "GC.Business >= 1.0.0",
+      "GC.Data >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.5",
       "Microsoft.EntityFrameworkCore.InMemory >= 8.0.5",
+      "Microsoft.EntityFrameworkCore.Relational >= 8.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.5",
       "Microsoft.NETCore.Platforms >= 7.0.4",
@@ -4604,7 +4647,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Business\\GC.Business.csproj": {
+              "projectPath": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Business\\GC.Business.csproj"
+            },
+            "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Data\\GC.Data.csproj": {
+              "projectPath": "C:\\Users\\wilia\\Desktop\\Developer\\GestaoCondominio\\src\\GC.Data\\GC.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -4633,6 +4683,10 @@
             "version": "[8.0.5, )"
           },
           "Microsoft.EntityFrameworkCore.InMemory": {
+            "target": "Package",
+            "version": "[8.0.5, )"
+          },
+          "Microsoft.EntityFrameworkCore.Relational": {
             "target": "Package",
             "version": "[8.0.5, )"
           },

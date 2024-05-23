@@ -9,3 +9,7 @@ C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Business\obj\Debug\net8
 C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Business\obj\Debug\net8.0\refint\GC.Business.dll
 C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Business\obj\Debug\net8.0\GC.Business.pdb
 C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Business\obj\Debug\net8.0\ref\GC.Business.dll
+C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Business\obj\Debug\net8.0\GC.Business.sourcelink.json
+C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Business\bin\Debug\net8.0\GC.Business.runtimeconfig.json
+C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Business\obj\Debug\net8.0\GC.Business.csproj.AssemblyReference.cache
+C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Business\obj\Debug\net8.0\GC.Business.genruntimeconfig.cache
