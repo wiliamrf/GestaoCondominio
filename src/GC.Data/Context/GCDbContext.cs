@@ -16,22 +16,42 @@ namespace GC.Data.Context
             ChangeTracker.AutoDetectChangesEnabled = false;
         }
 
-        public DbSet<Apartamento> Apartamentos { get; set;}
-        public DbSet<Carro> Carros { get; set;}
-        public DbSet<Moto> Motos { get; set;}
-        public DbSet<Correspondecia> Correspondeciaes { get; set;}
+        public DbSet<Apartamento> Apartamentos { get; set; }
+        public DbSet<Carro> Carros { get; set; }
+        public DbSet<Moto> Motos { get; set; }
+        public DbSet<Correspondecia> Correspondeciaes { get; set; }
 
         //# Holding
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.Entity<Carro>()
-        //        .HasOne(c => c.Apartamento) // Especifica a propriedade de navegação
-        //        .WithOne(a => a.Carro); // Indica que Carro pode esta associado a Um apartamento
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Apartamento>()
+            .HasOne(a => a.Carro)
+            .WithOne(c => c.Apartamento)
+            .HasForeignKey<Carro>(c => c.ApartamentoId);
 
-        //    modelBuilder.Entity<Moto>()
-        //       .HasOne(m => m.Apartamento) // Especifica a propriedade de navegação
-        //       .WithOne(a => a.Moto); // Indica que Moto pode esta associado a Um apartamento
+            modelBuilder.Entity<Carro>()
+                .HasOne(c => c.Apartamento)
+                .WithOne(a => a.Carro)
+                .HasForeignKey<Apartamento>(a => a.Id);
 
-        //}
+            modelBuilder.Entity<Apartamento>()
+            .HasOne(a => a.Moto)
+            .WithOne(c => c.Apartamento)
+            .HasForeignKey<Moto>(c => c.ApartamentoId);
+
+            modelBuilder.Entity<Moto>()
+                .HasOne(c => c.Apartamento)
+                .WithOne(a => a.Moto)
+                .HasForeignKey<Apartamento>(a => a.Id);
+
+
+
+            modelBuilder.Entity<Correspondecia>()
+               .HasOne(p => p.Apartamento) // Especifica a propriedade de navegação
+               .WithMany() // Indica que o produto pode estar associado a muitos itens de pedido
+               .HasForeignKey(p => p.ApartamentoId); // Define a chave estrangeira
+
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }

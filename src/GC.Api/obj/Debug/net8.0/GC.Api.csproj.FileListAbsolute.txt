@@ -138,3 +138,7 @@ C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Api\bin\Debug\net8.0\ru
 C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Api\bin\Debug\net8.0\appsettings.Staging.Development.json
 C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Api\bin\Debug\net8.0\appsettings.Staging.json
 C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Api\obj\Debug\net8.0\GC.Api.sourcelink.json
+C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Api\bin\Debug\net8.0\GC.Business.dll
+C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Api\bin\Debug\net8.0\GC.Data.dll
+C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Api\bin\Debug\net8.0\GC.Data.pdb
+C:\Users\wilia\Desktop\Developer\GestaoCondominio\src\GC.Api\bin\Debug\net8.0\GC.Business.pdb

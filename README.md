@@ -6,6 +6,14 @@
 # Web API<br>
 
 # Commits
-- 1 - Inicial Criacao do projeto e estrutura de dados 0,5hh
-- 2 - Criacao de Models (Apartamentos,Carros,Moto e correspondecias), efetuado Mapping das models e Insterfaces de Repositorios 2,5 hh
+- 1 - Criacao de Repositorio
+- 2 - Inicial Criacao do projeto e estrutura de dados 0,5hh
+- 3 - Criacao de Models (Apartamentos,Carros,Moto e correspondecias), efetuado Mapping das models e Insterfaces de Repositorios 2,5 hh
+- 4 - Criacao de DTO's , Conclusao de Mapping das models, criacao de migrations 2,5hh
+
+
+
+
+
+- <i>observacao Commits renumerados no readme apos commit #4 </i>
 

@@ -1,9 +1,8 @@
 ﻿namespace GC.Business.Models
 {
     public class Correspondecia : Entity
-    {
-      
-        public int ApartamentoId { get; set; }
+    {     
+        public Guid ApartamentoId { get; set; }
         public string? Descricao { get; set; }
         public string? Rastreio { get; set; }
 

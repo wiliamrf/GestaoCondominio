@@ -24,7 +24,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ViewModels\" />
     <ProjectReference Include="..\GC.Data\GC.Data.csproj" />
     <ProjectReference Include="..\GC.Business\GC.Business.csproj" />
   </ItemGroup>
